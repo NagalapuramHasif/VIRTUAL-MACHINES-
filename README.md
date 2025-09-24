@@ -11,7 +11,8 @@ To move the files between virtual machine.
 •	With bridged networking or NAT enabled, you can copy files across your network between the virtual machines.
 •	You can create a shared drive, either a virtual disk or a raw partition, and mount the drive in each of the virtual machines.
 # Procedure:
-		How to Enable File sharing in VirtualBox. 
+
+How to Enable File sharing in VirtualBox. 
 Step 1. Install Guest Additions on the Guest machine. 
 Step 2. Configure File Sharing on VirtualBox. 
  
